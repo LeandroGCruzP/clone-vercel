@@ -1,32 +1,21 @@
-<h1 align="center">
-UI Clone #17 - Vercel (Homepage)
-</h1>
+# 🗺️ Clone Vercel 🗺️
 
-<p align="center"><a href="https://vercel.com">Vercel Homepage</a> UI clone for study purposes.</p>
-<p align="center">Click <a href="https://www.youtube.com/playlist?list=PL85ITvJ7FLohTZv9cC5-PrZ39Q3cugWqp">here</a> to the YouTube playlist.</p>
+## 🏁 Objetivo 🏁
 
-<p align="center">
-  <a href="https://github.com/rocketseat-content/youtube-clone-vercel-homepage/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/rocketseat-content/youtube-clone-vercel-homepage?color=%236633cc&logoColor=%236633cc&style=flat" alt="Contributors">
-  </a>
-</p>
+### El objetivo principal es generar la interfaz de vercel para aprender un nuevo efecto en los textos de la página. Si quieres ver el resultado haz click en el siguiente link: https://clone-vercel.netlify.app/
 
-<hr>
+## 👷 Para la cración de Clone Vercel se utilizó 👷
 
-## Participants
+### 🔧 HTML
+### 🔧 scss
 
-[<img src="https://avatars3.githubusercontent.com/u/10366880?s=460&v=4" width="75px;"/>](https://github.com/guilhermerodz)
+## 🕺 Clona este repositorio 🕺
+### Solo debes clonar el repositorio y instalar la extención LiveServer
 
-[Guilherme Rodz](https://github.com/guilhermerodz)
+## ⚠️ NO TE OLVIDES ⚠️
 
-## Resources
+- 😀 [Sigueme en Github 🙋‍♂️❤️](https://github.com/LeandroGCruzP)
 
-- [x] HTML, SCSS, JS
-- [x] SVG Images
+### y si quieres
 
-## Start Dev Environment for VSCode
-
-1. Open project folder in `VSCode`
-2. Install `Live Server` and `Live Sass Compiler` extension
-3. Right click `index.html` > `Open with Live Server`
-4. Access the **generated address** in your browser 🚀
+- 😘 [Sigueme en Instagram 📷](https://www.instagram.com/lea_gcruz/)
